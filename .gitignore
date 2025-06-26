@@ -1,0 +1,9 @@
+.vsvode/
+Library/
+Logs/
+Temp/
+UserSettings/
+*.csproj
+*.sln
+*.userperfs
+*.unityproj
