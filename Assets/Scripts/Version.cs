@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class Version : MonoBehaviour
 {
-
+    public string version;
 }
